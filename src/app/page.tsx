@@ -38,7 +38,7 @@ export default function Home() {
 
 {/* Section 3 */}
 
-<div  className=" flex justify-center bg-white bg-fixed w-full h-[500px] pt-[120px] pr-[120px] pl-[120px] gap-40">
+<div className=" flex justify-center bg-white bg-fixed w-full h-[500px] pt-[120px] pr-[120px] pl-[120px] gap-40">
 <div className="flex flex-row justify-center gap-14">
       <div className="text-black mt-14">
         <h1 className=" font-extrabold text-5xl mb-12"> Project <br /> Management 
@@ -52,6 +52,7 @@ export default function Home() {
     </div>
     <div className="w-[700px] h-[350px] bg-blue-200"> </div>
 </div>
+
 </div>
 
 {/* section 4 */}
