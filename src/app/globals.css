@@ -29,10 +29,11 @@ body {
 }
 section::before{
   content: " ";
-  position: fixed;
+  position: absolute;
   inset: 0;
   background-image: url(./../../public/Element.png);
   background-repeat: no-repeat;
   background-size:contain;
+ 
   opacity: 100%;
 }

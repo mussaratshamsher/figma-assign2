@@ -28,7 +28,7 @@ export default function Home() {
       <p className="text-white mb-12"> Project management software that enables your teams to collaborate, paln,
         analyze and manage everyday task.
       </p>
-      <button className='flex justify-center p-2 w-52 gap-2 bg-blue-400 rounded text-white'>Try Whitepace Free
+      <button className="flex justify-center p-2 w-52 gap-2 bg-blue-400 rounded text-white">Try Whitepace Free
         <Image src={arrow} alt="" width={25} height={2}/> </button>
      </div>
 
@@ -47,7 +47,7 @@ export default function Home() {
       and diagrams directly from the app. Take photos with mobile app and save them to 
       a note.
       </p>
-      <button className='flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white'>Try it Free
+      <button className="flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white">Try it Free
       <Image src={arrow} alt="" width={25} height={2}/></button>
     </div>
     <div className="w-[700px] h-[350px] bg-blue-200"> </div>
@@ -66,7 +66,7 @@ export default function Home() {
       <p className="mb-12"> With whitepaces share your notes with your colleagues and collaborate on them.
         You can also publish a note to the internet and share the URL with others.
       </p>
-      <button className='flex justify-center p-2 w-40 gap-2  bg-blue-400 rounded text-white'>Get Started
+      <button className=" flex justify-center p-2 w-40 gap-2  bg-blue-400 rounded text-white">Get Started
       <Image src={arrow} alt="" width={25} height={2}/></button>
     </div>
 </div>
@@ -75,11 +75,11 @@ export default function Home() {
 <div  className=" flex bg-blue-900 bg-fixed w-full h-[600px] pt-[120px] pr-[120px] pl-[120px] gap-40">
 
       <div>
-        <h1 className=" font-extrabold text-white text-4xl mb-12"> Use as Extension<hr className="w-52 h-1 ml-36 border-[2px] border-orange-300"/></h1>
+        <h1 className="font-extrabold text-white text-4xl mb-12"> Use as Extension<hr className="w-52 h-1 ml-36 border-[2px] border-orange-300"/></h1>
       <p className="mb-12 text-white"> Use the web clipper extension available on firefox and chrome, to save web pages
         or take screenshots as notes.
       </p>
-      <button className='flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white'> Let's Go
+      <button className="flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white"> Let's Go
       <Image src={arrow} alt="" width={25} height={2}/></button>
     </div>
     <div className="w-[700px] h-[350px] bg-blue-200"> </div>
@@ -95,7 +95,7 @@ export default function Home() {
       <p className="mb-12"> Customize the app with the plugins, custom themes and multiple text editors (Rich Text or Markdown). 
         Or create your own scripts and plugins using the Extension API. 
       </p>
-      <button className='flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white'>Lets's Go
+      <button className="flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white">Lets's Go
       <Image src={arrow} alt="" width={25} height={2}/></button>
     </div>
 </div>
@@ -124,7 +124,7 @@ export default function Home() {
       
       </p>
       <div className="flex justify-center pt-10">
-      <button className='flex justify-center gap-2 p-2 w-36 bg-blue-400 rounded text-white'> Try Taseky
+      <button className="flex justify-center gap-2 p-2 w-36 bg-blue-400 rounded text-white"> Try Taseky
       <Image src={arrow} alt="" width={25} height={2}/> </button>
           </div>
     </div>
@@ -139,7 +139,7 @@ export default function Home() {
  always have access to them. Uses End-To_End Encription (E2EE) to 
  secure your notes and ensure no-one but yourself can access them.
 </p>
-<button className='flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white'> Read more
+<button className="flex justify-center gap-2 p-2 w-40 bg-blue-400 rounded text-white"> Read more
 <Image src={arrow} alt="" width={25} height={2}/> </button>
 </div>
 <div className="w-[1500px] h-[1900px]">
@@ -168,7 +168,7 @@ export default function Home() {
       <p className="mb-12 text-white"> whitepace teams up with your favourite software. Integrate with over 1000+ apps
         with Zapier to have all the tools you need for your projects success.
       </p>
-      <button className='flex justify-center p-2 w-40 bg-blue-400 rounded text-white'> Read more
+      <button className="flex justify-center p-2 w-40 bg-blue-400 rounded text-white"> Read more
       <Image src={arrow} alt="" width={25} height={2}/></button>
     </div>
 </div>
@@ -192,7 +192,7 @@ export default function Home() {
       Add your whole team as your needs grow.
       </p>
       <div className="flex justify-center pt-10">
-      <button className='flex justify-center p-2 w-40 bg-blue-400 rounded text-white'> Try taskey free
+      <button className="flex justify-center p-2 w-40 bg-blue-400 rounded text-white"> Try taskey free
       <Image src={arrow} alt="" width={25} height={2}/></button>
         </div>
         <p className=" text-white text-center mt-10 mb-10">On a big team? Contact sales</p>
